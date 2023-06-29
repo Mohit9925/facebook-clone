@@ -1,0 +1,23 @@
+.main{
+    display: flex;
+    background-color: #F0F2F5;
+    height: 100%;
+    width: 100%;
+    gap: 2rem;
+  
+}
+.left-frame{
+    flex-basis: 1;
+    padding: 20px 0px 20px  5px;
+    
+
+}
+.middle-frame{
+    flex-basis: 2;
+    flex-grow: 1;
+    
+}
+.right-frame{
+    flex-basis: 1;
+    
+}

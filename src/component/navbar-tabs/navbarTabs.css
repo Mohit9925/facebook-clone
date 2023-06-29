@@ -1,0 +1,23 @@
+.navbar-tabs{
+    display: flex;
+    height: 100%;
+    width: 8rem;
+    justify-content: center;
+    align-items:end;
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+
+.navbar-tabs:active{
+    .navbar-icon{
+        fill:  #1B74E4;
+    }
+    border-bottom:3px solid #1B74E4 ;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px ;
+}
+.navbar-tabs:not(:active):hover{
+    background-color: #F0F2F5;
+
+}

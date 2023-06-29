@@ -1,0 +1,9 @@
+.inputfield{
+    height: 2.5rem;
+    width: 14rem;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    background-color: #F0F2F5;
+    padding: 10px;
+}

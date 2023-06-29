@@ -1,0 +1,19 @@
+.card{
+    height: 3.5rem;
+    width: 23rem;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.card:hover{
+    background-color: #E3E5E8;
+}
+.card-image{
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 50%;
+}
+.card h4{
+    margin: 15px;
+}
